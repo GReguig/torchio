@@ -5,3 +5,4 @@ from .ssim import SSIM3D
 from .peak_signal_to_noise_ratio import PSNR
 from .normalized_cross_correlation import NCC
 from .visual_information_fidelity import VIF
+from .mutual_information import NMI
